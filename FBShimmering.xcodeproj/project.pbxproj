@@ -24,8 +24,8 @@
 /* Begin PBXBuildFile section */
 		1541E9A21C438DB300CFE9DC /* Shimmer.h in Headers */ = {isa = PBXBuildFile; fileRef = 1541E9A11C438DB300CFE9DC /* Shimmer.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		1541E9A71C438DC800CFE9DC /* FBShimmering.h in Headers */ = {isa = PBXBuildFile; fileRef = 1899D26D18BD1D070035A1B0 /* FBShimmering.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		1541E9A81C438E0C00CFE9DC /* FBShimmeringView.h in Headers */ = {isa = PBXBuildFile; fileRef = 1899D26818BD1CFB0035A1B0 /* FBShimmeringView.h */; };
-		1541E9A91C438E1300CFE9DC /* FBShimmeringLayer.h in Headers */ = {isa = PBXBuildFile; fileRef = 1899D26A18BD1CFB0035A1B0 /* FBShimmeringLayer.h */; };
+		1541E9A81C438E0C00CFE9DC /* FBShimmeringView.h in Headers */ = {isa = PBXBuildFile; fileRef = 1899D26818BD1CFB0035A1B0 /* FBShimmeringView.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		1541E9A91C438E1300CFE9DC /* FBShimmeringLayer.h in Headers */ = {isa = PBXBuildFile; fileRef = 1899D26A18BD1CFB0035A1B0 /* FBShimmeringLayer.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		1899D26B18BD1CFB0035A1B0 /* FBShimmeringView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1899D26718BD1CFB0035A1B0 /* FBShimmeringView.m */; };
 		1899D26C18BD1CFB0035A1B0 /* FBShimmeringLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 1899D26918BD1CFB0035A1B0 /* FBShimmeringLayer.m */; };
 		1899D27418BD201B0035A1B0 /* FBShimmering.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = 1899D26D18BD1D070035A1B0 /* FBShimmering.h */; };
@@ -498,6 +498,7 @@
 				1541E9A51C438DB300CFE9DC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		ECEA60F918A49C620064AFF4 /* Build configuration list for PBXProject "FBShimmering" */ = {
 			isa = XCConfigurationList;
