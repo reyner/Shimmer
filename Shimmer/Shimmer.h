@@ -18,4 +18,4 @@ FOUNDATION_EXPORT const unsigned char ShimmerVersionString[];
 
 #import "FBShimmering.h"
 #import "FBShimmeringView.h"
-#import "FBShimmering/FBShimmeringLayer.h"
+#import "FBShimmeringLayer.h"
