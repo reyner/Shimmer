@@ -16,6 +16,6 @@ FOUNDATION_EXPORT const unsigned char ShimmerVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <Shimmer/PublicHeader.h>
 
-#import <FBShimmering/FBShimmering.h>
-#import <FBShimmering/FBShimmeringView.h>
-#import <FBShimmering/FBShimmeringLayer.h>
+#import "FBShimmering.h"
+#import "FBShimmeringView.h"
+#import "FBShimmering/FBShimmeringLayer.h"
